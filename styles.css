@@ -1,7 +1,7 @@
 /* -------------------------Elements------------------------------------------------ */
 body {
   font-family: "Lato", sans-serif;
-  background-image: url("file:///C:/Users/aayush_khaitan/Downloads/invitation-main%20(1)/invitation-main/images/ivoryRose.jpg");
+  background-image: url(https://raw.githubusercontent.com/a-4-k/SaveTheDate/main/ivoryRose.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -27,7 +27,7 @@ p {
   width: 15px;
   height: 15px;
   position: absolute;
-  background: url(https://image.ibb.co/kyUHab/rose.png);
+  background: url(https://raw.githubusercontent.com/a-4-k/SaveTheDate/main/br-gr.png);
   background-size: 100% 100%;
   z-index: 2;
 }
